@@ -1,4 +1,4 @@
-![UI](images\image.png)
+![UI](https://github.com/Nody-Peng/LandRegistry_PDF2CSV/blob/main/images/image.png?raw=true)
 
 - 輸入資料夾: 就資料夾，裡面放要處理的清冊
 - 輸出資料夾: 自己選一個地方放
